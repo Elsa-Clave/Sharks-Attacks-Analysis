@@ -1,9 +1,8 @@
 
-
  <h3 align="center">Beyond the Bite: Exploring Shark Attacks and Reassessing the Human-Shark Relationship. Can we debunk their scary reputation?</h3>
 
 <div style="text-align:center;">
-    <img src="images/sharks2.jpg" alt="Sharks" width="350" >
+    <img src="images/sharks2.jpg" alt="Sharks" width="400" >
 </div>
 
 <p align="center"><i>Let’s get to know sharks better! Remember! We as humans are not part of their diet .</i>
