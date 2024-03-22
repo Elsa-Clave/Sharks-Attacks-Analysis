@@ -1,7 +1,7 @@
 
  <h3 align="center">Beyond the Bite: Exploring Shark Attacks and Reassessing the Human-Shark Relationship. Can we debunk their scary reputation?</h3>
 
-<div style="text-align:center;">
+<p align="center">
     <img src="images/sharks2.jpg" alt="Sharks" width="400" >
 </div>
 
@@ -25,7 +25,7 @@ Obtaining data from the **GSAF (Global Shark Attack Dataset)**, up until 2018, r
 
 Upon initial inspection, a significant portion of the dataset contains missing values. So, the first step is to clean up not only these missing values but also columns that may not be pertinent to my analysis.
 
-<div style="text-align:left;"> <div style="text-align:left;"> 
+<p align="center">
     <img src="images/s (1).jpg" alt="Sharks" width="350" > <img src="images/s (5).jpg" alt="Sharks" width="370" > 
 </div> </div>
 
@@ -36,37 +36,37 @@ After that, I focused on addressing any inconsistencies or errors in the data, s
 ## Exploratory Data Analysis
 Upon initial examination, I conducted descriptive statistics to understand the distribution of variables, including trends in fatal incidents over the years. This exploration will help me in the development of my hypothesis, specifically focusing on the **relationship between the variables "fatal" and "years.”**
 
-<div style="text-align:center;">
+<p align="center">
     <img src="images/7.png" alt="graph1" width="550" >
 </div>
 
-<div style="text-align:center;">
+<p align="center">
     <img src="images/14.png" alt="graph2" width="550" >
 </div>
 
 
 Visualizing a **wordcloud** to get a first glimpse of the most common activities:
 
-<div style="text-align:center;">
+<p align="center">
     <img src="images/15.png" alt="graph3" width="400" >
 </div>
 
 ## Theory-Specific Analysis
 ### Hypothesis 1: Sharks hate surfers, especially male surfers.
 
-<div style="text-align:left;">
+<p align="center">
     <img src="images/s (2).jpg" alt="comic" width="350" >
 </div>
 
 Upon first exploratory analysis I observed that the majority of fatal shark attacks involved males, and also on another hand the most repeated activity during attacks was surfing. So I developed this hypothesis. 
 
 So do sharks hate surfers? Do they confuse them with seals? Are they just jealous of the hability to surf the waves on top of their shiny surf tables? Let’s dig into it.
-<div style="text-align:left;"> <div style="text-align:right;">
+<p align="center">
     <img src="images/5.png" alt="graph4" width="400" > <img src="images/1.png" alt="graph5" width="450" >
 </div>
 
 Digging more into fatalities:
-<div style="text-align:center;">
+<p align="center">
     <img src="images/3.png" alt="graph1" width="600" >
 </div>
 
@@ -74,7 +74,7 @@ Digging more into fatalities:
 **CONCLUSION:** These findings shift the perspective. While the majority of attacks occur during surfing, the highest fatality rate is associated with swimming activities, contradicting my initial hypothesis. It appears that while sharks may indeed target surfers, the gravest consequences are faced by swimmers.
 
 ### Hypothesis 2: Sharks from Australia are les aggressive than American sharks.
-<div style="text-align:left;"> <div style="text-align:left;"> 
+<p align="center">
     <img src="images/dyk.jpg" alt="didyouknow" width="300" > <img src="images/s (6).jpg" alt="didyouknow" width="300" >
 </div> 
 
@@ -83,14 +83,15 @@ Given that the majority of recorded shark attacks occur in America, followed by 
 Remember that Provoked attacks occur when a human touches, hooks, nets, or otherwise aggravates the animal. Incidents that occur outside of a shark's natural habitat, such as aquariums and research holding-pens, are considered provoked, as are all incidents involving captured sharks. Sometimes humans inadvertently provoke an attack, such as when a surfer accidentally hits a shark with a surf board.
 
 So let's see the the fatal incidents by country, Distribution per country and year and heatmap
-<div style="text-align:center;">
+<p align="center">
     <img src="images/6.png" alt="graph" width="600" >
 </div>
 
-<div style="text-align:center;">
+<p align="center">
     <img src="images/8.png" alt="graph" width="600" >
 </div>
-<div style="text-align:center;">
+
+<p align="center">
     <img src="images/10.png" alt="graph1" width="600" >
 </div>
 In the first graph, we observe that the majority of attacks are reported from America. However, upon closer examination, Australia records the highest number of fatal attacks, despite a lower overall attack count.
@@ -103,7 +104,7 @@ The heat map further emphasizes these differences, with Australia topping the li
 
 ### Hypothesis 3: Sharks are not attacking more than before..maybe we are the problem?
 
-<div style="text-align:left;"> <div style="text-align:left;">
+<p align="center">
     <img src="images/s (7).jpg" alt="sharks" width="300" > <img src="images/s (8).jpg" alt="sharks" width="420" > 
 </div>
 
@@ -114,13 +115,13 @@ So as there are provoked attacks there are also unprovoked, this may occur when 
 
 So my hypothesis is that sharks are not attacking more than before in a unprovoked manner. There could be many reasons. Let’s see:
 
-<div style="text-align:center;">
+<p align="center">
     <img src="images/11.png" alt="graph" width="600" >
 </div>
-<div style="text-align:center;">
+<p align="center">
     <img src="images/12.png" alt="graph" width="600" >
 </div>
-<div style="text-align:center;">
+<p align="center">
     <img src="images/13.png" alt="graph" width="600" >
 </div>
 In the first graph, the majority of attacks appear to be unprovoked, whether fatal or not. This could be attributed to increased human presence and sea activities.
